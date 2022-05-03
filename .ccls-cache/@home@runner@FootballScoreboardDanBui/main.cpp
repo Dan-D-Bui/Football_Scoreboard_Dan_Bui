@@ -3,6 +3,9 @@ Dan Bui
 COSC 1437
 4/15/22
 Dr. Tyson McMillan
+
+Program to maintain a scoreboard for a football game
+Skills learned in
 */
 
 #include <iostream>
